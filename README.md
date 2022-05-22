@@ -1,3 +1,3 @@
 # Dir_a
 Krótki program do wyświetlania zawartości katalogu.
-![Screenshot](Dir_a window.jpg)
+![Screenshot] ![alt tag](http://url/to/img.png)
